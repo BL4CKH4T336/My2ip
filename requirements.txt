@@ -1,0 +1,5 @@
+aiohttp
+Flask
+python-telegram-bot
+requests
+ipinfo
